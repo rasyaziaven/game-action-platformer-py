@@ -1,4 +1,4 @@
-# Void Mermaid: Hasumi and the Shattered Cores
+# deliverance of void
 
 Sebuah game platformer 2D aksi menggunakan bahasa pemrograman **Python** dan **Pygame Community Edition (pygame-ce)**. Project ini dibangun dengan arsitektur bersih (*Clean Code*), modular, serta menggunakan perhitungan fisika berbasis *Delta Time* dan sistem kamera clamping.
 
